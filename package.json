@@ -1,0 +1,19 @@
+{
+  "name": "test-shared",
+  "version": "1.0.0",
+  "description": "shared module for test of submodule w npm git and tsc",
+  "main": "utils.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mfreydl/test-shared.git"
+  },
+  "author": "mfreydl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mfreydl/test-shared/issues"
+  },
+  "homepage": "https://github.com/mfreydl/test-shared#readme"
+}
