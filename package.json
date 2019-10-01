@@ -2,7 +2,7 @@
   "name": "test-shared",
   "version": "1.0.0",
   "description": "shared module for test of submodule w npm git and tsc",
-  "main": "utils.js",
+  "main": "dist/utils.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
